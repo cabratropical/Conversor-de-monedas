@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(60, 85, 176);
+    color: rgb(255, 255, 255);
+}
+
+.container {
+    margin: 50px auto;
+    width: 417px;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: rgb(136, 178, 255);
+}
+
+#chartContainer {
+    width: 600px;
+    height: 400px;
+    margin: 50px auto;
+    background-color: aliceblue;
+}
+
